@@ -1,0 +1,21 @@
+## Abitilies
+
+Characters have three abilities that define some fundamental aspects:
+
+**Endurance**
+Vitality, toughness, capacity to carry heavy weight and travel long distances.
+
+**Dexterity**
+Agility, balance, reflexes, and precision.
+
+**Cunning**
+General awareness about social life, traditions, nature, and Castillian manners.
+
+### Scores
+Each ability has a base score, and a peak score.
+
+Roll 3d6 to generate Endurance score:
+- Base is equal to the lowest die (ranging from 1 to 6).
+- Peak is the sum of the two highest dice (ranging from 2 to 12).
+
+Repeat the process for Dexterity, and Cunning.
